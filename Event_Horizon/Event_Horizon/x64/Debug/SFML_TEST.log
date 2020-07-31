@@ -1,0 +1,8 @@
+﻿  bullet.cpp
+  enemy.cpp
+C:\Users\andta\source\repos\SFML_TEST\SFML_TEST\enemy.cpp(17,29): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  game.cpp
+  main.cpp
+  player.cpp
+  Generating Code...
+  SFML_TEST.vcxproj -> C:\Users\andta\source\repos\SFML_TEST\x64\Debug\Event_Horizon.exe
