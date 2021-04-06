@@ -3,7 +3,7 @@
 
 Game description and rules:
 - This is an arcade game called Event Horizon.
-- The game consists of a spaceship flying threw interplanetery space incountering asteroids in the way.
+- The game consists of a spaceship flying through interplanetery space incountering asteroids in the way.
 - The asteroids range from small to huge and some move faster than others.
 - Your spaceship is equiped with a laser gun which shoots laser bullets.
 - Your goal is to shot as many asteroids as you can.
